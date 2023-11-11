@@ -19,6 +19,6 @@ fun convertToBinary(number: Int): String {
         binary = (num % 2).toString() + binary
         num /= 2
     }
-
+//yuyuyuyt
     return binary
 }
